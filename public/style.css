@@ -1,0 +1,31 @@
+div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: "Nanum Pen Script", cursive;
+  letter-spacing: 0.5rem;
+}
+
+img {
+  width: 20%;
+}
+
+span {
+  color: #ffc946;
+}
+
+a {
+  color: #082e66;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5c5f64;
+}
+
+footer {
+  letter-spacing: normal;
+}
